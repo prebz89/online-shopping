@@ -3,7 +3,7 @@
     <property name="created">2018-08-20T20:47:25</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.1.0.0</property>
-    <property name="modified">2019-10-17T19:43:16</property>
+    <property name="modified">2020-04-01T10:12:51</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -24,4 +24,9 @@
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
   </colors>
+  <attributes>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value />
+    </option>
+  </attributes>
 </scheme>
